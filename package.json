@@ -1,0 +1,27 @@
+{
+  "name": "landing-page-async-js-course-platzi",
+  "version": "1.0.0",
+  "description": "Repository for the asynchronism with javascript course project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphacall/landing-page-async-JS-course-platzi.git"
+  },
+  "keywords": [
+    "course",
+    "JavaScript",
+    "node",
+    "async",
+    "platzi",
+    "landing"
+  ],
+  "author": "Rafael Calles <raphacall@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphacall/landing-page-async-JS-course-platzi/issues"
+  },
+  "homepage": "https://github.com/raphacall/landing-page-async-JS-course-platzi#readme"
+}
