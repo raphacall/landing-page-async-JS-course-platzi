@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/raphacall/landing-page-async-JS-course-platzi/issues"
   },
-  "homepage": "https://github.com/raphacall/landing-page-async-JS-course-platzi#readme"
+  "homepage": "https://github.com/raphacall/landing-page-async-JS-course-platzi#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
 }
